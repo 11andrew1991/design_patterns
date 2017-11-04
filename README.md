@@ -1,2 +1,2 @@
-# oop_design_patterns
-Object Oriented Design Patterns
+# Design Patterns
+Object Oriented Design Patterns and SQL Hierarchy Design Pattern
