@@ -1,2 +1,2 @@
 # Design Patterns
-Object Oriented Design Patterns and SQL Hierarchy Design Pattern
+Object Oriented Design Patterns in Java and SQL Hierarchy Design Pattern
