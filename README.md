@@ -1,2 +1,8 @@
 # Design Patterns
-Object Oriented Design Patterns in Java and SQL Hierarchy Design Pattern
+* Builder
+* Prototype
+* Adapter
+* Composite
+* Chain of responsibility
+* Observer
+* Visitor
