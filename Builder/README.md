@@ -9,9 +9,8 @@
     becomes independent of the components that make up the object. This provides more control over the object 
     construction process.
 
+![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Builder/img/builder.PNG)
 
-    ![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Builder/img/builder.PNG "UML diagram")
-    
     
 ### Builder
 >   Specifies an abstract interface for creating parts of a Product object.
