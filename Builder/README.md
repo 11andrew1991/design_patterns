@@ -10,7 +10,7 @@
     construction process.
 
 
-    ![UML diagram](img/builder.PNG "UML diagram")
+    ![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Builder/img/builder.PNG "UML diagram")
     
     
 ### Builder
