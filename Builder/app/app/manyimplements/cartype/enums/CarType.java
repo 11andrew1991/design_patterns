@@ -1,4 +1,4 @@
-package manyimplements.cartype.enums;
+package app.manyimplements.cartype.enums;
 
 public enum CarType {
 

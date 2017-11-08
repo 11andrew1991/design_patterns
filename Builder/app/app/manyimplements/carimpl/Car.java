@@ -1,8 +1,8 @@
-package manyimplements.carimpl;
+package app.manyimplements.carimpl;
 
-import manyimplements.cartype.enums.CarColor;
-import manyimplements.cartype.enums.CarInteriorType;
-import manyimplements.cartype.enums.CarType;
+import app.manyimplements.cartype.enums.CarColor;
+import app.manyimplements.cartype.enums.CarInteriorType;
+import app.manyimplements.cartype.enums.CarType;
 
 public class Car {
 

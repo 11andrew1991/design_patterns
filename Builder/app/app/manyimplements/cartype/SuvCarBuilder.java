@@ -1,10 +1,10 @@
-package manyimplements.cartype;
+package app.manyimplements.cartype;
 
-import manyimplements.carimpl.Car;
-import manyimplements.carimpl.CarBuilder;
-import manyimplements.cartype.enums.CarColor;
-import manyimplements.cartype.enums.CarInteriorType;
-import manyimplements.cartype.enums.CarType;
+import app.manyimplements.carimpl.Car;
+import app.manyimplements.carimpl.CarBuilder;
+import app.manyimplements.cartype.enums.CarColor;
+import app.manyimplements.cartype.enums.CarInteriorType;
+import app.manyimplements.cartype.enums.CarType;
 
 public class SuvCarBuilder implements CarBuilder {
 

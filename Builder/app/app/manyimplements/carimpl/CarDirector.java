@@ -1,4 +1,4 @@
-package manyimplements.carimpl;
+package app.manyimplements.carimpl;
 
 public class CarDirector {
 

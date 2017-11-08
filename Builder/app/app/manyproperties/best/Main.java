@@ -1,4 +1,4 @@
-package manyproperties.bad;
+package app.manyproperties.best;
 
 public class Main {
 
@@ -19,7 +19,13 @@ public class Main {
     private static final String LANGUAGE = "RO";
 
     public static void main(String[] args) {
-        BadForm badForm = new BadForm(FIRST_NAME, LAST_NAME, USERNAME, PASS, EMAIL, CITY, COUNTRY, LANGUAGE);
-        System.out.println(badForm);
+        BestForm form = new BestForm.FormBuilder(FIRST_NAME, LAST_NAME, USERNAME, PASS)
+                .setCountry(COUNTRY)
+                .setCity(CITY)
+                .setEmail(EMAIL)
+                .setLanguage(LANGUAGE)
+                .build();
+
+        System.out.println(form);
     }
 }

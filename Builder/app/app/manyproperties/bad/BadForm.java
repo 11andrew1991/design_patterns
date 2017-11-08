@@ -1,6 +1,6 @@
-package manyproperties.best;
+package app.manyproperties.bad;
 
-public class BestForm {
+public class BadForm {
 
     private String firstName;
 
@@ -18,104 +18,88 @@ public class BestForm {
 
     private String language;
 
-    private BestForm(FormBuilder formBuilder) {
-        this.firstName = formBuilder.firstName;
-
-        this.lastName = formBuilder.lastName;
-
-        this.userName = formBuilder.userName;
-
-        this.password = formBuilder.password;
-
-        this.email = formBuilder.email;
-
-        this.city = formBuilder.city;
-
-        this.country = formBuilder.country;
-
-        this.language = formBuilder.language;
+    public BadForm(
+            String firstName,
+            String lastName,
+            String userName,
+            String password,
+            String email,
+            String city,
+            String country,
+            String language)
+    {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.userName = userName;
+        this.password = password;
+        this.email = email;
+        this.city = city;
+        this.country = country;
+        this.language = language;
     }
 
     public String getFirstName() {
         return firstName;
     }
 
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+
     public String getLastName() {
         return lastName;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
     }
 
     public String getUserName() {
         return userName;
     }
 
+    public void setUserName(String userName) {
+        this.userName = userName;
+    }
+
     public String getPassword() {
         return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
     }
 
     public String getEmail() {
         return email;
     }
 
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
     public String getCity() {
         return city;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
     }
 
     public String getCountry() {
         return country;
     }
 
+    public void setCountry(String country) {
+        this.country = country;
+    }
+
     public String getLanguage() {
         return language;
     }
 
-    public static class FormBuilder {
-
-        private String firstName;
-
-        private String lastName;
-
-        private String userName;
-
-        private String password;
-
-        private String email;
-
-        private String city;
-
-        private String country;
-
-        private String language;
-
-        public FormBuilder(String firstName, String lastName, String userName, String password) {
-            this.firstName = firstName;
-            this.lastName = lastName;
-            this.userName = userName;
-            this.password = password;
-        }
-
-        public FormBuilder setEmail(String email) {
-            this.email = email;
-            return this;
-        }
-
-        public FormBuilder setCity(String city) {
-            this.city = city;
-            return this;
-        }
-
-        public FormBuilder setCountry(String country) {
-            this.country = country;
-            return this;
-        }
-
-        public FormBuilder setLanguage(String language) {
-            this.language = language;
-            return this;
-        }
-
-        public BestForm build() {
-            return new BestForm(this);
-        }
+    public void setLanguage(String language) {
+        this.language = language;
     }
 
     @Override
