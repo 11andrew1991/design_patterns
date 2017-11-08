@@ -5,7 +5,7 @@
     inheritance to vary the object creation.
 
 1.  [Builder](https://github.com/11andrew1991/design_patterns/tree/master/Builder) 
-2.  [Prototype]()
+2.  [Prototype](https://github.com/11andrew1991/design_patterns/tree/master/Prototype)
 
 
 ##  Structural
