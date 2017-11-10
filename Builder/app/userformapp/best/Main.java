@@ -1,4 +1,4 @@
-package app.manyproperties.best;
+package userformapp.best;
 
 public class Main {
 

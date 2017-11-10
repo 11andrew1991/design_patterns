@@ -1,4 +1,4 @@
-package app;
+package userapp;
 
 public interface Prototype extends Cloneable  {
 

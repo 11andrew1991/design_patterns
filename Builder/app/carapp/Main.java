@@ -1,10 +1,10 @@
-package app.manyimplements;
+package carapp;
 
-import app.manyimplements.carimpl.Car;
-import app.manyimplements.carimpl.CarBuilder;
-import app.manyimplements.carimpl.CarDirector;
-import app.manyimplements.cartype.SedanCarBuilder;
-import app.manyimplements.cartype.SuvCarBuilder;
+import carapp.carimpl.Car;
+import carapp.carimpl.CarBuilder;
+import carapp.carimpl.CarDirector;
+import carapp.cartype.SedanCarBuilder;
+import carapp.cartype.SuvCarBuilder;
 
 public class Main {
 

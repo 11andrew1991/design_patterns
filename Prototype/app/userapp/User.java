@@ -1,4 +1,4 @@
-package app;
+package userapp;
 
 public class User implements Prototype {
 

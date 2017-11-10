@@ -1,4 +1,4 @@
-package app.manyproperties.bad;
+package userformapp.bad;
 
 public class Main {
 
