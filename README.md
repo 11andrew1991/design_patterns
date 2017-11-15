@@ -13,7 +13,7 @@
     class patterns use inheritance to compose interfaces or implementations.
 
 1.  [Adapter](https://github.com/11andrew1991/design_patterns/tree/master/Adapter)
-2.  [Composite]()
+2.  [Composite](https://github.com/11andrew1991/design_patterns/tree/master/Composite)
 
 
 ##  Behavior
