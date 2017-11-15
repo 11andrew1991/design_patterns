@@ -21,6 +21,6 @@
     patterns describe not just patterns of objects or classes but also the patterns of communication between them. 
     These patterns characterize complex control flow that’s difficult to follow at run-time.
 
-1.  [Chain of responsibility]()
+1.  [Chain of responsibility](https://github.com/11andrew1991/design_patterns/tree/master/ChainOfResponsibility)
 2.  [Observer]()
 3.  [Visitor]()
