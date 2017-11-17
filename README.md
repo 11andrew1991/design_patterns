@@ -23,4 +23,4 @@
 
 1.  [Chain of responsibility](https://github.com/11andrew1991/design_patterns/tree/master/ChainOfResponsibility)
 2.  [Observer](https://github.com/11andrew1991/design_patterns/tree/master/Observer)
-3.  [Visitor]()
+3.  [Visitor](https://github.com/11andrew1991/design_patterns/tree/master/Visitor)

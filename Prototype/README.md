@@ -1,5 +1,6 @@
 #   Prototype Design Pattern
 
+
 ##  What is the Prototype Design Pattern
 >   The Prototype design pattern is used to specify the kinds of objects to create using a prototypical instance, and create new objects
     by copying this prototype.

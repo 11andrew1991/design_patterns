@@ -1,5 +1,6 @@
 #   Composite Design Pattern
 
+
 ##  What is the Composite Design Pattern
 >   The Composite Pattern allows you to compose objects into a tree structure to represent the part-whole hierarchy which means
     you can create a tree of objects that is made of different parts, but that can be treated as a whole one big thing. Composite lets
