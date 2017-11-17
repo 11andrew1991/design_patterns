@@ -9,7 +9,7 @@
 >   The Observer Pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents
     are notified and updated automatically.
     
-![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Builder/img/observer.PNG)
+![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Observer/img/observer.PNG)
 
 
 ### Subject
