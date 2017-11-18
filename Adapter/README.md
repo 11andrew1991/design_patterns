@@ -16,3 +16,6 @@
     don’t necessarily have compatible interfaces.
 -   There are several existing subclasses to be use, but it’s impractical to adapt their interface by subclassing 
     every one. An object adapter can adapt the interface of its parent class.
+    
+    
+[Implementation](https://github.com/11andrew1991/design_patterns/tree/master/Adapter/app/)

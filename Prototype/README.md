@@ -28,3 +28,6 @@
 -   When instances of a class can have one of only a few different combinations of state. It may be more convenient to install a
     corresponding number of prototypes and clone them rather than instantiating the class manually, each time with the appropriate
     state.
+
+
+[Implementation](https://github.com/11andrew1991/design_patterns/tree/master/Prototype/app/)    

@@ -34,3 +34,6 @@
 -   When you want to represent part-whole hierarchies of objects.
 -   When you want clients to be able to ignore the difference between compositions of objects and individual objects. Clients will
     treat all objects in the composite structure uniformly.
+    
+    
+[Implementation](https://github.com/11andrew1991/design_patterns/tree/master/Composite/app/)    
