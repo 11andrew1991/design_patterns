@@ -26,3 +26,4 @@
 3.  [Visitor](https://github.com/11andrew1991/design_patterns/tree/master/Visitor)
 4.  [Strategy](https://github.com/11andrew1991/design_patterns/tree/master/Strategy)
 5.  [State](https://github.com/11andrew1991/design_patterns/tree/master/State)
+6.  [Command](https://github.com/11andrew1991/design_patterns/tree/master/Command)
