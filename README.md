@@ -14,6 +14,7 @@
 
 1.  [Adapter](https://github.com/11andrew1991/design_patterns/tree/master/Adapter)
 2.  [Composite](https://github.com/11andrew1991/design_patterns/tree/master/Composite)
+3.  [Proxy](https://github.com/11andrew1991/design_patterns/tree/master/Proxy)
 
 
 ##  Behavior
