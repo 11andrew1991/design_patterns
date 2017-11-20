@@ -15,4 +15,8 @@ public class DeleteCommand implements Command {
         database.delete();
     }
 
+    @Override
+    public void unExecute() {
+        database.roleBack();
+    }
 }

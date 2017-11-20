@@ -18,4 +18,7 @@ public class Database {
         System.out.println("Deleting record ...");
     }
 
+    public void roleBack() {
+        System.out.println("Role back record ...");
+    }
 }

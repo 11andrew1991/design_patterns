@@ -21,14 +21,17 @@ public class Developer {
 
     public void insertRecord() {
         insert.execute();
+        insert.unExecute();
     }
 
     public void updateRecord() {
         update.execute();
+        update.unExecute();
     }
 
     public void deleteRecord() {
         delete.execute();
+        delete.unExecute();
     }
 
     public void selectRecord() {

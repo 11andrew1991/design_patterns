@@ -15,4 +15,8 @@ public class InsertCommand implements Command {
         database.insert();
     }
 
+    @Override
+    public void unExecute() {
+        database.roleBack();
+    }
 }

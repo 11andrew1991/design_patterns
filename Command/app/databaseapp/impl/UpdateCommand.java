@@ -14,4 +14,9 @@ public class UpdateCommand implements Command {
     public void execute() {
         database.update();
     }
+
+    @Override
+    public void unExecute() {
+        database.roleBack();
+    }
 }
