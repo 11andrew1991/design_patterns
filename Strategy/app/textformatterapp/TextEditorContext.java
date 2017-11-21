@@ -1,10 +1,12 @@
 package textformatterapp;
 
-public class TextEditor {
+import textformatterapp.strategies.TextFormatter;
+
+public class TextEditorContext {
 
     private final TextFormatter textFormatter;
 
-    public TextEditor(TextFormatter textFormatter) {
+    public TextEditorContext(TextFormatter textFormatter) {
         this.textFormatter = textFormatter;
     }
 

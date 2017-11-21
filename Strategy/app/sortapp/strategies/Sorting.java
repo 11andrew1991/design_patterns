@@ -1,4 +1,4 @@
-package sortapp;
+package sortapp.strategies;
 
 public interface Sorting {
 

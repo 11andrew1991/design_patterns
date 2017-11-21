@@ -1,4 +1,4 @@
-package textformatterapp;
+package textformatterapp.strategies;
 
 public interface TextFormatter {
 

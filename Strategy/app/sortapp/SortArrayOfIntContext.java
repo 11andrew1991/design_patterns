@@ -1,10 +1,12 @@
 package sortapp;
 
-public class SortArrayOfInt {
+import sortapp.strategies.Sorting;
+
+public class SortArrayOfIntContext {
 
     private final Sorting sorting;
 
-    public SortArrayOfInt(Sorting sorting) {
+    public SortArrayOfIntContext(Sorting sorting) {
         this.sorting = sorting;
     }
 

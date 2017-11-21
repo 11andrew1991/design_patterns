@@ -1,4 +1,4 @@
-package sortapp;
+package sortapp.strategies;
 
 public class InsertionSort implements Sorting {
 
