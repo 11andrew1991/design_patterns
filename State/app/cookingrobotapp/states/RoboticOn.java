@@ -1,10 +1,12 @@
-package cookingrobotapp;
+package cookingrobotapp.states;
+
+import cookingrobotapp.RobotContext;
 
 public class RoboticOn implements RoboticState {
 
-    private final Robot robot;
+    private final RobotContext robot;
 
-    public RoboticOn(Robot robot) {
+    public RoboticOn(RobotContext robot) {
         this.robot = robot;
     }
 
@@ -19,6 +21,6 @@ public class RoboticOn implements RoboticState {
 
     public void off() {
         robot.setState(robot.getRoboticOff());
-        System.out.println("Robot is switched off");
+        System.out.println("RobotContext is switched off");
     }
 }

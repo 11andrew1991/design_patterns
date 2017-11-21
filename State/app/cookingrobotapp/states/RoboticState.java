@@ -1,4 +1,4 @@
-package cookingrobotapp;
+package cookingrobotapp.states;
 
 public interface RoboticState {
 

@@ -1,10 +1,12 @@
-package cookingrobotapp;
+package cookingrobotapp.states;
+
+import cookingrobotapp.RobotContext;
 
 public class RoboticStandby implements RoboticState {
 
-    private final Robot robot;
+    private final RobotContext robot;
 
-    public RoboticStandby(Robot robot) {
+    public RoboticStandby(RobotContext robot) {
         this.robot = robot;
     }
 

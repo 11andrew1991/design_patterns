@@ -1,6 +1,8 @@
 package cookingrobotapp;
 
-public class Robot implements RoboticState {
+import cookingrobotapp.states.*;
+
+public class RobotContext implements RoboticState {
 
     private RoboticState roboticOn;
 
@@ -12,7 +14,7 @@ public class Robot implements RoboticState {
 
     private RoboticState state;
 
-    public Robot() {
+    public RobotContext() {
         this.roboticOn = new RoboticOn(this);
 
         this.roboticCook = new RoboticCook(this);
