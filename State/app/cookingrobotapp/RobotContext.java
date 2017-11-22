@@ -1,6 +1,9 @@
 package cookingrobotapp;
 
-import cookingrobotapp.states.*;
+import cookingrobotapp.states.RoboticCook;
+import cookingrobotapp.states.RoboticOff;
+import cookingrobotapp.states.RoboticOn;
+import cookingrobotapp.states.RoboticState;
 
 public class RobotContext implements RoboticState {
 
@@ -9,8 +12,6 @@ public class RobotContext implements RoboticState {
     private RoboticState roboticCook;
 
     private RoboticState roboticOff;
-
-    private RoboticState roboticStandby;
 
     private RoboticState state;
 
@@ -21,8 +22,6 @@ public class RobotContext implements RoboticState {
 
         this.roboticOff = new RoboticOff(this);
 
-        this.roboticStandby = new RoboticStandby(this);
-
         this.state = roboticOn;
     }
 
@@ -32,12 +31,10 @@ public class RobotContext implements RoboticState {
 
     public void walk() {
         state.walk();
-        setState(getRoboticStandby());
     }
 
     public void cook() {
         state.cook();
-        setState(getRoboticStandby());
     }
 
     public void off() {
@@ -74,13 +71,5 @@ public class RobotContext implements RoboticState {
 
     public void setState(RoboticState state) {
         this.state = state;
-    }
-
-    public RoboticState getRoboticStandby() {
-        return roboticStandby;
-    }
-
-    public void setRoboticStandby(RoboticState roboticStandby) {
-        this.roboticStandby = roboticStandby;
     }
 }

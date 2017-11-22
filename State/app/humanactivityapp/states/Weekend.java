@@ -1,4 +1,6 @@
-package humanactivityapp;
+package humanactivityapp.states;
+
+import humanactivityapp.Human;
 
 public class Weekend implements Activity {
 

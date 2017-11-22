@@ -1,5 +1,7 @@
 package humanactivityapp;
 
+import humanactivityapp.states.Activity;
+
 public class Human {
 
     private Activity state;

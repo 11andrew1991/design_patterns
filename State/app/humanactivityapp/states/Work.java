@@ -1,4 +1,8 @@
-package humanactivityapp;
+package humanactivityapp.states;
+
+import humanactivityapp.Human;
+import humanactivityapp.states.Activity;
+import humanactivityapp.states.Weekend;
 
 public class Work implements Activity {
 

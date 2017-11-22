@@ -5,7 +5,7 @@ import databaseapp.impl.InsertCommand;
 import databaseapp.impl.SelectCommand;
 import databaseapp.impl.UpdateCommand;
 
-public class DatabaseRunner {
+public class Main {
 
     public static void main(String[] args) {
         Database database = new Database();

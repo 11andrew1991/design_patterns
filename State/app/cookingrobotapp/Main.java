@@ -7,12 +7,19 @@ public class Main {
 
         robot.walk();
         robot.cook();
-        robot.walk();
-        robot.off();
+
         System.out.println("------------");
 
         robot.walk();
         robot.off();
+
+        System.out.println("------------");
+
+        robot.walk();
+        robot.off();
+
+        System.out.println("------------");
+
         robot.cook();
     }
 }
