@@ -1,5 +1,8 @@
 package databaseapp;
 
+/**
+ * Receiver - Knows how to perform the operations associated with carrying out a request. Any class may serve as a Receiver.
+ */
 public class Database {
 
     public void insert() {

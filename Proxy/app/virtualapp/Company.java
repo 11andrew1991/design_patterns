@@ -1,5 +1,8 @@
 package virtualapp;
 
+/**
+ * Part of RealSubject
+ */
 public class Company {
 
     private String companyName;

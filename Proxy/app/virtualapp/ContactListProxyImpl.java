@@ -2,6 +2,9 @@ package virtualapp;
 
 import java.util.List;
 
+/**
+ * Proxy - Provides an interface identical to Subject’s so that a proxy can be substituted for the real subject.
+ */
 public class ContactListProxyImpl implements ContactList {
 
     private ContactList contactList;

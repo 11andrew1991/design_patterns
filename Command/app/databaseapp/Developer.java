@@ -2,6 +2,9 @@ package databaseapp;
 
 import databaseapp.impl.Command;
 
+/**
+ * Invoker - Asks the command to carry out the request.
+ */
 public class Developer {
 
     private Command insert;
