@@ -31,3 +31,6 @@
 -   A remote proxy provides a local representative for an object in a different address space.
 -   A virtual proxy creates expensive objects on demand.
 -   A protection proxy controls access to the original object. Protection proxies are useful when objects should have different access rights.
+
+
+[Implementation](https://github.com/11andrew1991/design_patterns/tree/master/Proxy/app/)
