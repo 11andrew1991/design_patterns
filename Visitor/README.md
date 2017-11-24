@@ -49,5 +49,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/11andrew1991/design_patterns#design-patterns">CONTENTS</a>
+  <<<a href="https://github.com/11andrew1991/design_patterns#design-patterns">CONTENTS</a>>>
+  <<<a href="https://github.com/11andrew1991/design_patterns/tree/master/Strategy#strategy-design-pattern">Next Behavior Pattern (Strategy)</a>>>
 </p>

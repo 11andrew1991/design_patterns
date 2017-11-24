@@ -46,5 +46,6 @@ Another example is [GOOGLE MAPS APP](https://www.google.ro/maps/@46.7686526,23.6
 
 
 <p align="center">
-  <a href="https://github.com/11andrew1991/design_patterns#design-patterns">CONTENTS</a>
+  <<<a href="https://github.com/11andrew1991/design_patterns#design-patterns">CONTENTS</a>>>
+  <<<a href="https://github.com/11andrew1991/design_patterns/tree/master/State#state-design-pattern">Next Behavior Pattern (State)</a>>>
 </p>
