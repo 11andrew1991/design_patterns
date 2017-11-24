@@ -1,4 +1,4 @@
-package productapp;
+package carapp;
 
 public class Main {
 
