@@ -23,6 +23,6 @@ public class SelectCommand implements Command {
 
     @Override
     public void unExecute() {
-        database.roleBack();
+        database.rollBack();
     }
 }

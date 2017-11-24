@@ -23,6 +23,6 @@ public class InsertCommand implements Command {
 
     @Override
     public void unExecute() {
-        database.roleBack();
+        database.rollBack();
     }
 }

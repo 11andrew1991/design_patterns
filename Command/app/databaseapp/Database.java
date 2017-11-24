@@ -21,7 +21,7 @@ public class Database {
         System.out.println("Deleting record ...");
     }
 
-    public void roleBack() {
-        System.out.println("Role back record ...");
+    public void rollBack() {
+        System.out.println("Roll back record ...");
     }
 }
