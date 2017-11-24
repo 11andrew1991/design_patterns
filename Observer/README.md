@@ -38,4 +38,9 @@
     you don’t want these objects tightly coupled.
     
     
-[Implementation](https://github.com/11andrew1991/design_patterns/tree/master/Observer/app/)       
+[Implementation](https://github.com/11andrew1991/design_patterns/tree/master/Observer/app/)
+
+
+<p align="center">
+  <a href="https://github.com/11andrew1991/design_patterns">CONTENTS</a>
+</p>       

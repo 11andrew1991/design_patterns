@@ -36,4 +36,9 @@
     treat all objects in the composite structure uniformly.
     
     
-[Implementation](https://github.com/11andrew1991/design_patterns/tree/master/Composite/app/)    
+[Implementation](https://github.com/11andrew1991/design_patterns/tree/master/Composite/app/)
+
+
+<p align="center">
+  <a href="https://github.com/11andrew1991/design_patterns">CONTENTS</a>
+</p>    

@@ -45,4 +45,9 @@
     classes change often, then it’s probably better to define the operations in those classes.
     
     
-[Implementation](https://github.com/11andrew1991/design_patterns/tree/master/Visitor/app/)    
+[Implementation](https://github.com/11andrew1991/design_patterns/tree/master/Visitor/app/)
+
+
+<p align="center">
+  <a href="https://github.com/11andrew1991/design_patterns">CONTENTS</a>
+</p>    
