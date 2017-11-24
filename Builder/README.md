@@ -40,5 +40,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/11andrew1991/design_patterns#design-patterns">CONTENTS</a>
+  <a href="https://github.com/11andrew1991/design_patterns#design-patterns">CONTENTS</a> |
+  <a href="https://github.com/11andrew1991/design_patterns/tree/master/Prototype#prototype-design-pattern">Next Creational Pattern (Prototype)</a>
 </p>
