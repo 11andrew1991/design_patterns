@@ -49,5 +49,5 @@
 
 
 <p align="center">
-  <a href="https://github.com/11andrew1991/design_patterns">CONTENTS</a>
-</p>    
+  <a href="https://github.com/11andrew1991/design_patterns#design-patterns">CONTENTS</a>
+</p>
