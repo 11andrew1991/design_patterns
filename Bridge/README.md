@@ -7,8 +7,8 @@
 
 <p align="center">
     <img src="https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/Bridge-Interface-Hierarchy.png" />
-    ![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge-shape.png)
-    ![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge.PNG)
+    <img src="https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge-shape.png" />
+    <img src="https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge.PNG" />
 </p>
 
 ### Abstraction
