@@ -5,10 +5,11 @@
 >   The Bridge Pattern’s intent is to decouple an abstraction from its implementation so that the two can vary independently. It puts
     the abstraction and implementation into two different class hierarchies so that both can be extend independently.
 
-![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/Bridge-Interface-Hierarchy.png)
-![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge-shape.png)
-![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge.PNG)
-
+<p align="center">
+    <img src="https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/Bridge-Interface-Hierarchy.png" />
+    ![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge-shape.png)
+    ![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge.PNG)
+</p>
 
 ### Abstraction
 -   An abstraction defines the abstraction’s interface and also maintains a reference to an object of type implementer, and the link between the abstraction and the implementer is called a Bridge.
