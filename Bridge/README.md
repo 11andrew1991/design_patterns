@@ -5,11 +5,18 @@
 >   The Bridge Pattern’s intent is to decouple an abstraction from its implementation so that the two can vary independently. It puts
     the abstraction and implementation into two different class hierarchies so that both can be extend independently.
 
+
+<p>If we look into bridge design pattern with example, it will be easy to understand. Lets say we have an interface hierarchy in both interfaces and implementations like below image.</p>
 <p align="center">
-    <p>If we look into bridge design pattern with example, it will be easy to understand. Lets say we have an interface hierarchy in both interfaces and implementations like below image.</p>
     <img src="https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/Bridge-Interface-Hierarchy.png" />
-    <p>Now we will use bridge design pattern to decouple the interfaces from implementation. UML diagram for the classes and interfaces after applying bridge pattern will look like below image.</p>  
+</p>
+
+<p>Now we will use bridge design pattern to decouple the interfaces from implementation. UML diagram for the classes and interfaces after applying bridge pattern will look like below image.</p>
+<p align="center">
     <img src="https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge-shape.png" />
+</p>  
+
+<p align="center">
     <img src="https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge.PNG" />
 </p>
 
