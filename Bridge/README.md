@@ -5,6 +5,8 @@
 >   The Bridge Pattern’s intent is to decouple an abstraction from its implementation so that the two can vary independently. It puts
     the abstraction and implementation into two different class hierarchies so that both can be extend independently.
 
+![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/Bridge-Interface-Hierarchy.png)
+![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge-shape.png)
 ![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge.PNG)
 
 
@@ -15,7 +17,7 @@
 -   Refined Abstraction extends the interface defined by the abstraction.
 
 ### Concrete Implementer
--   And the Concrete Implementer implements the Implementer interface and defines its concrete implementation.
+-   Concrete Implementer implements the Implementer interface and defines its concrete implementation.
 
 ### Implementor
 -   The Bridge Pattern decouples the interface and the implementation. As a result, an implementation is not bound permanently to an interface. The implementation of an abstraction can be configured at run-time. It also eliminates compile-time dependencies on the implementation. Changing an implementation class doesn’t required recompiling the abstraction class and its clients. The Client only needs to know about the abstraction and you can hide the implementation from them.

@@ -1,4 +1,4 @@
-package carapp;
+package shapeapp;
 
 public class Main {
 
