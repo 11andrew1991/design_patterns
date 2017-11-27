@@ -16,7 +16,7 @@
 2.  [Composite](https://github.com/11andrew1991/design_patterns/tree/master/Composite)
 3.  [Proxy](https://github.com/11andrew1991/design_patterns/tree/master/Proxy)
 4.  [Bridge](https://github.com/11andrew1991/design_patterns/tree/master/Bridge)
-5.  [Decorator]((https://github.com/11andrew1991/design_patterns/tree/master/Decorator))
+5.  [Decorator](https://github.com/11andrew1991/design_patterns/tree/master/Decorator)
 
 
 ##  Behavior
