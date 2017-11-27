@@ -6,6 +6,8 @@
     the abstraction and implementation into two different class hierarchies so that both can be extend independently.
 
 
+##  Difference
+
 <p>If we look into bridge design pattern with example, it will be easy to understand. Lets say we have an interface hierarchy in both interfaces and implementations like below image.</p>
 <p align="center">
     <img src="https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/Bridge-Interface-Hierarchy.png" />
@@ -15,6 +17,10 @@
 <p align="center">
     <img src="https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge-shape.png" />
 </p>  
+
+<p align="center">
+    <img src="https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/difference.PNG" />
+</p>
 
 <p align="center">
     <img src="https://github.com/11andrew1991/design_patterns/blob/master/Bridge/img/bridge.PNG" />
