@@ -13,6 +13,9 @@
     <img src="https://github.com/11andrew1991/design_patterns/blob/master/Decorator/img/decorator.PNG" />
 </p>
 
+<p align="center">
+    <img src="https://github.com/11andrew1991/design_patterns/blob/master/Decorator/img/decorator-pattern.png" />
+</p>
 
 ### Component
 -   Defines the interface for objects that can have responsibilities added to them dynamically.
