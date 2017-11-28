@@ -1,4 +1,4 @@
-package car.decorator;
+package decorator.car;
 
 /**
  * Component - Defines the interface for objects that can have responsibilities added to them dynamically.

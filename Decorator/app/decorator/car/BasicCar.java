@@ -1,4 +1,4 @@
-package car.decorator;
+package decorator.car;
 
 /**
  * Concrete Component - Defines an object to which additional responsibilities can be attached.

@@ -1,4 +1,4 @@
-package car.decorator;
+package decorator.car;
 
 public class Main {
 

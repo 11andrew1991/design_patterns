@@ -1,4 +1,4 @@
-package car.decorator;
+package decorator.car;
 
 /**
  * Concrete Decorator - Adds responsibilities to the component

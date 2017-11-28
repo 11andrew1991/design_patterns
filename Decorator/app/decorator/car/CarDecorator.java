@@ -1,4 +1,4 @@
-package car.decorator;
+package decorator.car;
 
 /**
  * Decorator - Maintains a reference to a Component object and defines an interface that conforms to Component’s interface.
