@@ -35,5 +35,5 @@
 
 <p align="center">
   <<<a href="https://github.com/11andrew1991/design_patterns#design-patterns">CONTENTS</a>>>
-  <<<a href="https://github.com/11andrew1991/design_patterns/tree/master/Prototype#prototype-design-pattern">Next Creational Pattern (Factory)</a>>>
+  <<<a href="https://github.com/11andrew1991/design_patterns/blob/master/Factory/README.md#factory-design-pattern">Next Creational Pattern (Factory)</a>>>
 </p> 
