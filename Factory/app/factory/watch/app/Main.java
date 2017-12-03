@@ -1,5 +1,10 @@
 package factory.watch.app;
 
+import factory.watch.app.maker.DigitalWatchMaker;
+import factory.watch.app.maker.RomeWatchMaker;
+import factory.watch.app.maker.WatchMaker;
+import factory.watch.app.watch.Watch;
+
 public class Main {
 
     public static void main(String[] args) {

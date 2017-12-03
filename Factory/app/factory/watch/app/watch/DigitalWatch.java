@@ -1,4 +1,4 @@
-package factory.watch.app;
+package factory.watch.app.watch;
 
 import java.util.Date;
 

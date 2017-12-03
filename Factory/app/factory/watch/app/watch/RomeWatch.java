@@ -1,4 +1,4 @@
-package factory.watch.app;
+package factory.watch.app.watch;
 
 public class RomeWatch implements Watch {
 
