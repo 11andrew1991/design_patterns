@@ -8,14 +8,15 @@ import factory.shape.app.product.Square;
 public class ShapeFactory {
 
     public static Shape createShape(String shapeType) {
-        if ("CIRCLE".equalsIgnoreCase(shapeType)) {
-            return new Circle();
-        } else if ("RECTANGLE".equalsIgnoreCase(shapeType)) {
-            return new Rectangle();
-        } else if ("SQUARE".equalsIgnoreCase(shapeType)) {
-            return new Square();
+        switch (shapeType) {
+            case "CIRCLE":
+                return new Circle();
+            case "RECTANGLE":
+                return new Rectangle();
+            case "SQUARE":
+                return new Square();
+            default:
+                throw new RuntimeException();
         }
-
-        throw new RuntimeException();
     }
 }
