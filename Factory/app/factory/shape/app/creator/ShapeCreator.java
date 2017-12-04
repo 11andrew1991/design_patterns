@@ -12,5 +12,5 @@ public abstract class ShapeCreator {
         shape.draw();
     }
 
-    public abstract Shape getShape();
+    protected abstract Shape getShape();
 }
