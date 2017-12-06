@@ -5,6 +5,9 @@ import factory.shape.app.product.Rectangle;
 import factory.shape.app.product.Shape;
 import factory.shape.app.product.Square;
 
+/**
+ * Simple factory
+ */
 public class ShapeFactory {
 
     public static Shape createShape(String shapeType) {

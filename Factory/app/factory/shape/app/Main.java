@@ -9,17 +9,7 @@ import factory.shape.app.product.Shape;
 public class Main {
 
     public static void main(String[] args) {
-        ShapeCreator shapeCreator = new CircleCreator();
-        shapeCreator.draw();
-
-        shapeCreator = new RectangleCreator();
-        shapeCreator.draw();
-
-        shapeCreator = new SquareCreator();
-        shapeCreator.draw();
-
-        System.out.println("---------------------------------------------------------");
-
+        // Simple factory pattern
         Shape shape = ShapeFactory.createShape("CIRCLE");
         shape.draw();
 
@@ -28,5 +18,17 @@ public class Main {
 
         shape = ShapeFactory.createShape("RECTANGLE");
         shape.draw();
+
+        System.out.println("---------------------------------------------------------");
+
+        // Factory method
+        ShapeCreator shapeCreator = new CircleCreator();
+        shapeCreator.draw();
+
+        shapeCreator = new RectangleCreator();
+        shapeCreator.draw();
+
+        shapeCreator = new SquareCreator();
+        shapeCreator.draw();
     }
 }
