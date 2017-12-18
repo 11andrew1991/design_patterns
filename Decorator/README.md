@@ -36,7 +36,15 @@
 -   When extension by sub-classing is impractical. Sometimes a large number of independent extensions are possible and would
     produce an explosion of subclasses to support every combination. Or a class definition may be hidden or otherwise unavailable
     for sub-classing.
-    
+
+
+
+##  Decorator Design Pattern in Java
+-   java.io.BufferedInputStream(InputStream)
+-   java.io.DataInputStream(InputStream)
+-   java.io.BufferedOutputStream(OutputStream)
+-   java.util.zip.ZipOutputStream(OutputStream)
+-   java.util.Collections#checked List|Map|Set|SortedSet|SortedMap()
 
 [Implementation](https://github.com/11andrew1991/design_patterns/tree/master/Decorator/app/)
 
