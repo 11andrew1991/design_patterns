@@ -33,6 +33,15 @@
 -   Classes delegate responsibility to one of several helper subclasses, and you want to localize the knowledge of which helper
     subclass is the delegate.       
 
+
+
+### Factory Method Pattern in JDK
+-   java.util.Calendar#getInstance()
+-   java.util.ResourceBundle#getBundle()
+-   java.text.NumberFormat#getInstance()
+-   java.nio.charset.Charset#forName()
+
+
 [Implementation](https://github.com/11andrew1991/design_patterns/tree/master/Factory/app/)
 
 

@@ -39,6 +39,15 @@
 -   You want to provide a class library of products, and you want to reveal just their interfaces, not their implementations.
 
 
+
+### Abstract Factory Pattern in JDK
+-   java.util.Arrays#asList()
+-   java.sql.Connection#createStatement()
+-   java.sql.Statement#executeQuery()
+-   java.text.NumberFormat#getInstance()
+-   javax.xml.transform.TransformerFactory#newInstance()
+
+
 [Implementation](https://github.com/11andrew1991/design_patterns/tree/master/AbstractFactory/app/)
 
 
