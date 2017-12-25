@@ -13,6 +13,10 @@
     <img src="https://github.com/11andrew1991/design_patterns/blob/master/Interpreter/img/interpreter.png" />
 </p>
 
+<p align="center">
+    <img src="https://github.com/11andrew1991/design_patterns/blob/master/Interpreter/img/interpreter01.PNG" />
+</p>
+
 
 ### AbstractExpression
 -   Declares an abstract Interpret operation that is common to all nodes in the abstract syntax tree.
