@@ -8,7 +8,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/11andrew1991/design_patterns/blob/master/Iterator/img/iterator.png" />
+    <img src="https://github.com/11andrew1991/design_patterns/blob/master/Iterator/img/iterator.PNG" />
 </p>
 
 
