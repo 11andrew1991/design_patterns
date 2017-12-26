@@ -34,3 +34,4 @@
 5.  [State](https://github.com/11andrew1991/design_patterns/tree/master/State)
 6.  [Command](https://github.com/11andrew1991/design_patterns/tree/master/Command)
 7.  [Interpreter](https://github.com/11andrew1991/design_patterns/tree/master/Interpreter)
+8.  [Iterator](https://github.com/11andrew1991/design_patterns/tree/master/Iterator)
