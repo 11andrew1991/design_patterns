@@ -1,5 +1,8 @@
 package interpreter.converter.app;
 
+/**
+ * TerminalExpression / NonterminalExpression
+ */
 public class IntToBinaryExpression implements Expression {
 
     private int i;

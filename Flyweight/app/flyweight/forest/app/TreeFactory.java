@@ -4,6 +4,9 @@ import java.awt.*;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * FlyweightFactory - Creates and manages flyweight objects.
+ */
 public class TreeFactory {
 
     public static Map<String, TreeType> treeTypes = new HashMap<>();

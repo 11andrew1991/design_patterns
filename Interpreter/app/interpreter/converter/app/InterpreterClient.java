@@ -1,5 +1,11 @@
 package interpreter.converter.app;
 
+/**
+ * Client - Builds (or is given) an abstract syntax tree representing a particular sentence in the language that the grammar defines.
+ * The abstract syntax tree is assembled from instances of the NonterminalExpression and TerminalExpression classes.
+ *
+ * Invokes the Interpret operation.
+ */
 public class InterpreterClient {
 
     private static final String HEXADECIMAL = "Hexadecimal";

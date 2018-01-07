@@ -2,6 +2,9 @@ package flyweight.forest.app;
 
 import java.awt.*;
 
+/**
+ * Client - Maintains a reference to flyweight(s).
+ */
 public class Main {
 
     private static int CANVAS_SIZE = 500;

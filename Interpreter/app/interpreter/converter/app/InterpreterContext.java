@@ -1,5 +1,8 @@
 package interpreter.converter.app;
 
+/**
+ * Context - Contains information that’s global to the interpreter.
+ */
 public class InterpreterContext {
 
     public String getBinaryFormat(int i) {
