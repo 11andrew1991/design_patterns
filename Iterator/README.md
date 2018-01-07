@@ -59,5 +59,6 @@ An iterator can be designed either as an internal iterator or as an external ite
 
 
 <p align="center">
-  <<<a href="https://github.com/11andrew1991/design_patterns#design-patterns">CONTENTS</a>>>  
+    <<<a href="https://github.com/11andrew1991/design_patterns/tree/master/Mediator#mediator-design-pattern">Next Behavior Pattern (Mediator)</a>>>
+    <<<a href="https://github.com/11andrew1991/design_patterns#design-patterns">CONTENTS</a>>>  
 </p>
