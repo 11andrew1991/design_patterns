@@ -2,9 +2,9 @@
 
 
 ##  What is the Iterator Pattern
->   The Iterator pattern allows a client object to access the contents of a container in a sequential manner, without having any knowledgeabouttheinternalrepresentationofitscontents. Thetermcontainer,usedabove,cansimplybedeﬁnedasacollection of data or objects. The objects within the container could in turn be collections, making it a collection of collections. 
+>   The Iterator pattern allows a client object to access the contents of a container in a sequential manner, without having any knowledge about the internal representation of its contents. The term container, used above, can simply be deﬁned as a collection of data or objects. The objects within the container could in turn be collections, making it a collection of collections. 
 
->   The Iterator pattern enables a client object to traverse through this collection of objects (or the container) without having the container to reveal how the data is stored internally. To accomplish this, the Iterator pattern suggests that a Container object shouldbedesignedtoprovideapublicinterfaceintheformofanIteratorobjectfordifferentclientobjectstoaccessitscontents. An Iterator object contains public methods to allow a client object to navigate through the list of objects within the container.
+>   The Iterator pattern enables a client object to traverse through this collection of objects (or the container) without having the container to reveal how the data is stored internally. To accomplish this, the Iterator pattern suggests that a Container object should be designed to provide a public interface in the form of an Iterator object for different client objects to access its contents. An Iterator object contains public methods to allow a client object to navigate through the list of objects within the container.
 
 
 <p align="center">
