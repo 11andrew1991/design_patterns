@@ -41,6 +41,6 @@
 
 
 <p align="center">
-  <<<a href="https://github.com/11andrew1991/design_patterns/tree/master/TemplateMethod#template-method-design-pattern">Next Behavior Pattern (Template Method)</a>>>
+  <<<a href="https://github.com/11andrew1991/design_patterns/tree/master/Template#template-design-pattern">Next Behavior Pattern (Template)</a>>>
   <<<a href="https://github.com/11andrew1991/design_patterns#design-patterns">CONTENTS</a>>>  
 </p>
