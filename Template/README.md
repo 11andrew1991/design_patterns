@@ -17,8 +17,10 @@
     specific details will be implemented inside different subclasses. This type of implementation eliminates the need for duplicate
     code, which means a minimum amount of code to be written.
 
-![UML diagram](https://github.com/11andrew1991/design_patterns/blob/master/Template/img/template.png)
 
+<p align="center">
+    <img src="https://github.com/11andrew1991/design_patterns/blob/master/Template/img/template.png" />
+</p>
 
 ### AbstractClass
 -   Defines abstract primitive operations that concrete subclasses define to implement steps of an algorithm.
