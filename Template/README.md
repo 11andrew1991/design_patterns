@@ -22,6 +22,10 @@
     <img src="https://github.com/11andrew1991/design_patterns/blob/master/Template/img/template.png" />
 </p>
 
+<p align="center">
+    <img src="https://github.com/11andrew1991/design_patterns/blob/master/Template/img/template-1.png" />
+</p>
+
 ### AbstractClass
 -   Defines abstract primitive operations that concrete subclasses define to implement steps of an algorithm.
 -   Implements a template method defining the skeleton of an algorithm. The template method calls primitive operations as well
