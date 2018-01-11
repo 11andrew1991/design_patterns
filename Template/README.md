@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/11andrew1991/design_patterns/blob/master/Template/img/template-1.png" />
+    <img src="https://github.com/11andrew1991/design_patterns/blob/master/Template/img/templayte-1.png" />
 </p>
 
 ### AbstractClass
