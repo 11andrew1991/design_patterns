@@ -8,6 +8,7 @@
 2.  [Prototype](https://github.com/11andrew1991/design_patterns/tree/master/Prototype)
 3.  [Factory](https://github.com/11andrew1991/design_patterns/tree/master/Factory)
 4.  [Abstract Factory](https://github.com/11andrew1991/design_patterns/tree/master/AbstractFactory)
+5.  [Singleton](https://github.com/11andrew1991/design_patterns/tree/master/Singleton)
 
 
 ##  Structural
